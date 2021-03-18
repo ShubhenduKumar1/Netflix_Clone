@@ -1,0 +1,38 @@
+
+.Navbar_content{
+    /* border: 1px solid black; */
+    height: 12vh;
+    position: fixed;
+    top: 0;
+    
+    /* background: black; */
+    
+    width: 100%;
+     transition: all 0.5s ease;
+    z-index:1111;
+    
+}
+.nav_black{
+    background-color: rgba(0,0,0,0.89);
+}
+.nav_logo{
+           position: fixed;
+    width: 80px;
+    object-fit: contain;
+    /* right: 69%; */
+    left: 2%;
+    top: 1.5%;
+}.logo_image
+{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid;
+    color: black; */
+}
+.nav_avtar{
+      position: fixed;
+    right: 3%;
+    width: 40px;
+    object-fit: contain;
+    top: 2.5%;
+}
