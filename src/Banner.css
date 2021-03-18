@@ -1,69 +1,70 @@
-.Banner_background{
-    /* background: black; */
-    object-fit: contain;
-    color: white;
-    height: 80vh;
-    width: 100%;
+.Banner_background {
+  /* background: black; */
+  object-fit: contain;
+  color: white;
+  height: 80vh;
+  width: 100%;
 }
-.Banner-title{
-        padding-top: 11rem;
-    padding-left: 2.7rem;
-    padding-bottom: 2rem;
+.Banner-title {
+  padding-top: 14rem;
+  padding-left: 2.7rem;
+  padding-bottom: 2rem;
 }
-.Banner-title h1{
-    font-size: 3rem;
-    font-weight: 800;
-    /* padding-top: 7rem;
+.Banner-title h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  /* padding-top: 7rem;
     padding-bottom: 5rem; */
 }
-.play_button{
-    font-size: 0.9rem;
-    padding: 0.7rem 1.2rem;
-    background-color: #0000009e;
-    border: none;
-    outline: none;
-    color: white;
-    width: 96px;
-    letter-spacing: 2px;
-    font-weight: 100;
-    cursor: pointer;
-    transition: all 0.7s ease;
+.play_button {
+  font-size: 0.9rem;
+  padding: 0.7rem 1.2rem;
+  background-color: #0000009e;
+  border: none;
+  outline: none;
+  color: white;
+  width: 96px;
+  letter-spacing: 2px;
+  font-weight: 100;
+  cursor: pointer;
+  transition: all 0.7s ease;
 }
-.info_button{
-        margin-left: 1rem;
-    font-size: 0.9rem;
-    padding: 0.7rem 1.2rem;
-    background-color: #0000009e;
-    border: none;
-    outline: none;
-    color: white;
-    width: 126px;
-    letter-spacing: 2px;
-    font-weight: 100;
-    cursor: pointer;
-    transition: all 0.7s ease;
+.info_button {
+  margin-left: 1rem;
+  font-size: 0.9rem;
+  padding: 0.7rem 1.2rem;
+  background-color: #0000009e;
+  border: none;
+  outline: none;
+  color: white;
+  width: 126px;
+  letter-spacing: 2px;
+  font-weight: 100;
+  cursor: pointer;
+  transition: all 0.7s ease;
 }
-.Banner_content .Buttons{
-    padding-left: 2.4rem;
-
-    
+.Banner_content .Buttons {
+  padding-left: 2.4rem;
 }
-.play_button:hover,.info_button:hover{
-    background-color: #fff;
-    color: black;
-
+.play_button:hover,
+.info_button:hover {
+  background-color: #fff;
+  color: black;
 }
-.Banner_content p{
-
-      max-width: 505px;
-    font-size: 0.8rem;
-    padding-top: 0.7rem;
-    padding-bottom: 0.7rem;
-    padding-left: 2.3rem;
-    padding-right: 0.4rem;
+.Banner_content p {
+  max-width: 505px;
+  font-size: 1rem;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  padding-left: 2.3rem;
+  padding-right: 0.4rem;
 }
-.fade-bottom{
-    height: 7.4rem;
-    background-image:linear-gradient(180deg,transparent,rgba(37,37,37,0.61),#111);
-    
+.fade-bottom {
+  height: 11rem;
+  background-image: linear-gradient(
+    180deg,
+    transparent,
+    rgba(37, 37, 37, 0.61),
+    #111
+  );
 }
