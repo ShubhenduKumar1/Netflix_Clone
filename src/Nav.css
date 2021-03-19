@@ -20,6 +20,7 @@
   /* right: 69%; */
   left: 2%;
   top: 1.1%;
+  cursor: pointer;
 }
 .logo_image {
   display: flex;
@@ -33,4 +34,5 @@
   width: 57px;
   object-fit: contain;
   top: 2.1%;
+  cursor: pointer;
 }

@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.21.1",
     "express": "^4.17.1",
+    "firebase": "^8.3.1",
     "movie-trailer": "^2.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -19,7 +20,7 @@
     "react-youtube": "^7.13.1"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

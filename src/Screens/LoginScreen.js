@@ -25,10 +25,10 @@ function LoginScreen() {
           <>
             <h1>Unlimited movies,TV shows and more.</h1>
             <h2>Watch anywhere, Cancel anytime</h2>
-            <p>
+            <h3>
               Ready to watch? Enter your email to create or to restart your
               membership
-            </p>
+            </h3>
             <div className="loginInput">
               <form>
                 <input type="email" placeholder="Email Address" />

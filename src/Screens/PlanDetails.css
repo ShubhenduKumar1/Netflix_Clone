@@ -1,0 +1,15 @@
+.PlanInfo {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 4rem;
+}
+.subscribe_button {
+  padding: 0.5rem 1rem;
+  font-weight: 700;
+  font-size: 1rem;
+  background: #e50914;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
